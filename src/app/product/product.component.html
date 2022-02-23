@@ -1,0 +1,36 @@
+<!-- <h3 *ngIf="products; else noProduct">{{ title }}</h3> -->
+<app-category></app-category>
+<div class="form-group">
+  <input
+    class="form-control"
+    id="productName"
+    placeholder="Ürün Ara"
+    [(ngModel)]="filterText"
+  />
+  <small *ngIf="filterText" class="form-text text-muted">
+    Şu an <strong>{{ filterText }}</strong> aradınız
+  </small>
+</div>
+<br />
+
+<div class="row">
+  <ng-template #noProduct
+    ><div class="alert alert-primary" role="alert">
+      Bu kategoride ürün yoktur.
+    </div></ng-template
+  >
+  <div
+    class="productbox"
+    *ngFor="let product of products | productFilter: filterText"
+    style="width: 15rem"
+  >
+    <img [src]="product.imageUrl" class="card-img-top" alt="..." />
+    <div class="card-body">
+      <h5 class="card-title">{{ product.description }} {{ product.name }}</h5>
+      <p class="card-text">
+        {{ product.price | currency: "₺" }}
+      </p>
+      <a (click)="addToCard(product)" class="btn btn-primary">Sepete Ekle</a>
+    </div>
+  </div>
+</div>

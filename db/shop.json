@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 10000,
+      "categoryId": 1,
+      "description": "Asus",
+      "imageUrl": "https://images.unsplash.com/photo-1636211990414-8edec17ba047?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 500,
+      "categoryId": 2,
+      "description": "A4 Tech",
+      "imageUrl": "https://images.unsplash.com/photo-1593108408993-58ee9c7825c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Klavye",
+      "price": 300,
+      "categoryId": 2,
+      "description": "Rampage",
+      "imageUrl": "https://www.sitem.com.tr/images/UrunDetayResim/171620-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kulaklik",
+      "price": 500,
+      "categoryId": 4,
+      "description": "Ryzen",
+      "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Monitor",
+      "price": 3000,
+      "categoryId": 2,
+      "description": "Monster",
+      "imageUrl": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHBjJTIwc2NyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Kasa",
+      "price": 4000,
+      "categoryId": 2,
+      "description": "Msi",
+      "imageUrl": "https://media.istockphoto.com/photos/the-new-modern-powerful-gaming-computer-with-beautiful-rgb-lights-of-picture-id1200023306?b=1&k=20&m=1200023306&s=170667a&w=0&h=QP7mAB9BaSbGdU4Ern85IuhCZqaBdV8gRSq5yBnHE44="
+    },
+    {
+      "name": "Telefon",
+      "description": "Iphone",
+      "price": "10000",
+      "categoryId": "3",
+      "imageUrl": "https://productimages.hepsiburada.net/s/49/375/10986385866802.jpg",
+      "id": 7
+    },
+    {
+      "name": "TV",
+      "description": "LG",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lg/thumb/v2-91288-8_large.jpg",
+      "price": "7000",
+      "categoryId": "5",
+      "id": 8
+    },
+    {
+      "name": "Laptop",
+      "description": "Macbook",
+      "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80",
+      "price": "25000",
+      "categoryId": "1",
+      "id": 9
+    },
+    {
+      "name": "Laptop",
+      "description": "Msi",
+      "imageUrl": "https://images.unsplash.com/photo-1617294864710-bb97f05457f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": "15000",
+      "categoryId": "1",
+      "id": 10
+    },
+    {
+      "name": "Laptop",
+      "description": "Hp",
+      "imageUrl": "https://images.unsplash.com/photo-1604684768394-52a862c2955a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "9000",
+      "categoryId": "1",
+      "id": 11
+    },
+    {
+      "name": "Laptop",
+      "description": "Lenovo",
+      "imageUrl": "https://images.unsplash.com/photo-1609240873613-95b7d2f1522f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "13000",
+      "categoryId": "1",
+      "id": 12
+    },
+    {
+      "name": "Ekran Kartı",
+      "description": "RTX",
+      "imageUrl": "https://www.incehesap.com/resim/urun/202107/60ec288e493bb9.90652353_ljpgfhoikqmne_500.jpg",
+      "price": "15000",
+      "categoryId": "2",
+      "id": 13
+    },
+    {
+      "name": "Telefon",
+      "description": "Samsung",
+      "imageUrl": "https://images.unsplash.com/photo-1583573636246-18cb2246697f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1338&q=80",
+      "price": "10000",
+      "categoryId": "3",
+      "id": 14
+    },
+    {
+      "name": "Telefon",
+      "description": "Huawei",
+      "imageUrl": "https://images.unsplash.com/photo-1546706887-a24528987a75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": "8000",
+      "categoryId": "3",
+      "id": 15
+    },
+    {
+      "name": "Telefon",
+      "description": "Xiaomi",
+      "imageUrl": "https://i0.wp.com/shiftdelete.net/wp-content/uploads/2022/02/iki-xiaomi-cihazi-icin-miui-13-guncellemesi-global-pazarlara-geliyor.webp?fit=1280%2C720&ssl=1",
+      "price": "9500",
+      "categoryId": "3",
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar Parcalari"
+    },
+    {
+      "id": 3,
+      "name": "Telefon"
+    },
+    {
+      "id": 4,
+      "name": "Aksesuar"
+    },
+    {
+      "id": 5,
+      "name": "Televizyon"
+    }
+  ]
+}
