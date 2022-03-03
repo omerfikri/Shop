@@ -23,12 +23,11 @@ export class ProductComponent implements OnInit {
   products!: Product[];
 
   ngOnInit() {
-    this.activatedRouted.params.subscribe(params =>{
-      this.productService.getProduct(params["categoryId"]).subscribe((data) => {
+    this.activatedRouted.params.subscribe((params) => {
+      this.productService.getProduct(params['categoryId']).subscribe((data) => {
         this.products = data;
       });
-    })
-    
+    });
   }
 
   addToCard(product: any) {

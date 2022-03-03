@@ -127,6 +127,78 @@
       "price": "9500",
       "categoryId": "3",
       "id": 16
+    },
+    {
+      "name": "Telefon",
+      "description": "Casper",
+      "imageUrl": "https://m.media-amazon.com/images/I/51rtJ6iy6mL._AC_SY1000_.jpg",
+      "price": "6000",
+      "categoryId": "3",
+      "id": 17
+    },
+    {
+      "name": "Smart Watch",
+      "description": "Sony",
+      "imageUrl": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "price": "4500",
+      "categoryId": "4",
+      "id": 18
+    },
+    {
+      "name": "Airpods",
+      "description": "Apple",
+      "imageUrl": "https://images.unsplash.com/photo-1605464315542-bda3e2f4e605?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": "2500",
+      "categoryId": "4",
+      "id": 19
+    },
+    {
+      "name": "Powerbank",
+      "description": "Philips",
+      "imageUrl": "https://cdn.cimri.io/image/1000x1000/philipsdlpcvsiyahmahtanabilirarjcihazpowerbank_465951033.jpg",
+      "price": "500",
+      "categoryId": "4",
+      "id": 20
+    },
+    {
+      "name": "Mikrofon",
+      "description": "Nikon",
+      "imageUrl": "https://images.unsplash.com/photo-1516485392461-3961cc21f1e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": "3500",
+      "categoryId": "4",
+      "id": 21
+    },
+    {
+      "name": "TV",
+      "description": "Samsung",
+      "imageUrl": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/128598-8_large.jpg",
+      "price": "8000",
+      "categoryId": "5",
+      "id": 22
+    },
+    {
+      "name": "TV",
+      "description": "Vestel",
+      "imageUrl": "https://productimages.hepsiburada.net/s/41/375/10713094914098.jpg",
+      "price": "7500",
+      "categoryId": "5",
+      "id": 23
+    },
+    {
+      "name": "TV",
+      "description": "Sony",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIMNw7MJDLYl9bznYV9gYEJ9pJl3Da5SN1DF0nkraFba5bUbNMBN8YTAjz_RYuxiKjQo&usqp=CAU",
+      "price": "6500",
+      "categoryId": "5",
+      "id": 24
+    },
+    {
+      "name": "TV",
+      "description": "Grundig",
+      "imageUrl": "https://productimages.hepsiburada.net/s/39/375/10644540850226.jpg",
+      "price": "5500",
+      "categoryId": "5",
+      "id": 25
     }
   ],
   "categories": [
